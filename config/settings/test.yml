@@ -1,0 +1,3 @@
+db:
+  primary:
+    name: modular_monolith_test

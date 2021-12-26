@@ -1,0 +1,7 @@
+db:
+  primary:
+    name: modular_monolith_development
+    user: root
+    password:
+    host: <%= ENV['DB_HOST'] || '127.0.0.1' %>
+    port: 5432
